@@ -1,0 +1,12 @@
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\WindowsFormsDodatcove\WindowsFormsDodatcove\bin\Debug\WindowsFormsDodatcove.exe.config
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\WindowsFormsDodatcove\WindowsFormsDodatcove\bin\Debug\WindowsFormsDodatcove.exe
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\WindowsFormsDodatcove\WindowsFormsDodatcove\bin\Debug\WindowsFormsDodatcove.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\WindowsFormsDodatcove\WindowsFormsDodatcove\obj\Debug\WindowsFormsDodatcove.csprojAssemblyReference.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\WindowsFormsDodatcove\WindowsFormsDodatcove\obj\Debug\WindowsFormsDodatcove.Moneys.resources
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\WindowsFormsDodatcove\WindowsFormsDodatcove\obj\Debug\WindowsFormsDodatcove.Pairs.resources
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\WindowsFormsDodatcove\WindowsFormsDodatcove\obj\Debug\WindowsFormsDodatcove.Properties.Resources.resources
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\WindowsFormsDodatcove\WindowsFormsDodatcove\obj\Debug\WindowsFormsDodatcove.Times.resources
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\WindowsFormsDodatcove\WindowsFormsDodatcove\obj\Debug\WindowsFormsDodatcove.csproj.GenerateResource.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\WindowsFormsDodatcove\WindowsFormsDodatcove\obj\Debug\WindowsFormsDodatcove.csproj.CoreCompileInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\WindowsFormsDodatcove\WindowsFormsDodatcove\obj\Debug\WindowsFormsDodatcove.exe
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\WindowsFormsDodatcove\WindowsFormsDodatcove\obj\Debug\WindowsFormsDodatcove.pdb

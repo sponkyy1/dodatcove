@@ -1,0 +1,13 @@
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\Dodatcove\Dodatcove\obj\Debug\netcoreapp3.1\Dodatcove.csprojAssemblyReference.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\Dodatcove\Dodatcove\obj\Debug\netcoreapp3.1\Dodatcove.csproj.CoreCompileInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\Dodatcove\Dodatcove\obj\Debug\netcoreapp3.1\Dodatcove.AssemblyInfoInputs.cache
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\Dodatcove\Dodatcove\obj\Debug\netcoreapp3.1\Dodatcove.AssemblyInfo.cs
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\Dodatcove\Dodatcove\bin\Debug\netcoreapp3.1\Dodatcove.exe
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\Dodatcove\Dodatcove\bin\Debug\netcoreapp3.1\Dodatcove.deps.json
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\Dodatcove\Dodatcove\bin\Debug\netcoreapp3.1\Dodatcove.runtimeconfig.json
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\Dodatcove\Dodatcove\bin\Debug\netcoreapp3.1\Dodatcove.runtimeconfig.dev.json
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\Dodatcove\Dodatcove\bin\Debug\netcoreapp3.1\Dodatcove.dll
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\Dodatcove\Dodatcove\bin\Debug\netcoreapp3.1\Dodatcove.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\Dodatcove\Dodatcove\obj\Debug\netcoreapp3.1\Dodatcove.dll
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\Dodatcove\Dodatcove\obj\Debug\netcoreapp3.1\Dodatcove.pdb
+C:\Users\yuras\Desktop\2-Семестр\oop\Dodatcove\Dodatcove\Dodatcove\obj\Debug\netcoreapp3.1\Dodatcove.genruntimeconfig.cache
